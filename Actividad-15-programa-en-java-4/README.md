@@ -1,4 +1,4 @@
-# Actividad 15 - Programa Java 4
+# Actividad 16 - Programa Java 4
 Materia: Programación Avanzada
 
 Esta actividad contiene ejercicios de clases y objetos desarrollados en Java.
